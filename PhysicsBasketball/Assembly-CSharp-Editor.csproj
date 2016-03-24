@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+<<<<<<< HEAD
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
@@ -55,6 +56,8 @@
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+=======
+>>>>>>> pant2002/master
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -87,8 +90,11 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
       <Project>{8A7BCB59-E9C8-D23E-6327-153307B9A775}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+=======
+>>>>>>> pant2002/master
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{692CB86A-CCE2-9944-2771-E3EE6EA45A04}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>

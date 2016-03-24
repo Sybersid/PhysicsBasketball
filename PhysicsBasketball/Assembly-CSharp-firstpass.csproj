@@ -45,6 +45,48 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\ArmRotation.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Camera2DFollow.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\MoveTrail.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Parallaxing.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Tiling.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video08\Weapon.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video09\Weapon.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video10\Weapon.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video11\GameMaster.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video11\Player.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video12\GameMaster.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video13\GameMaster.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video14\EnemyAI.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video15\Enemy.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video18\CameraShake.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video18\GameMaster.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video18\Weapon.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video19\Enemy.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video19\StatusIndicator.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video20\Enemy.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video20\GameMaster.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video20\Player.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video21-22\WaveUI.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video23\GameMaster.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video23\GameOverUI.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video23\LivesCounterUI.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video24\GameMaster.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video24\MenuManager.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video25\AudioManager.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video25\GameMaster.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video26\AudioManager.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video26\Enemy.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video26\GameMaster.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video26\GameOverUI.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video26\MenuManager.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video26\Player.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video26\Weapon.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\Fading.cs" />
+     <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\WaveSpawner.cs" />
+>>>>>>> pant2002/master
      <Compile Include="Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\Standard Assets\2D\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
