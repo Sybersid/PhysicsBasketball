@@ -46,7 +46,10 @@
   </ItemGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> pant2002/master
      <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\ArmRotation.cs" />
      <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Camera2DFollow.cs" />
      <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\MoveTrail.cs" />
@@ -86,6 +89,9 @@
      <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\2D Platformer\Video26\Weapon.cs" />
      <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\Fading.cs" />
      <Compile Include="Assets\Standard Assets\2D Assets Pack\Scripts\WaveSpawner.cs" />
+<<<<<<< HEAD
+>>>>>>> pant2002/master
+=======
 >>>>>>> pant2002/master
      <Compile Include="Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\Standard Assets\2D\Scripts\CameraFollow.cs" />

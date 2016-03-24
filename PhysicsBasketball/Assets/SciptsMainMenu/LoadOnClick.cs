@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class LoadOnClick : MonoBehaviour {
 
+<<<<<<< HEAD
 	public static void LoadScene(string sceneName, SceneManagement.LoadSceneMode mode = LoadSceneMode.Single);
 	{
 
@@ -11,5 +12,7 @@ public class LoadOnClick : MonoBehaviour {
 	}
 
 
+=======
+>>>>>>> pant2002/master
 
 }
